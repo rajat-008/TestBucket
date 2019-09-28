@@ -1,8 +1,18 @@
 .navbar {
-  background-color: #ff0000;
+  background-color: #EAEB0C;
 }
 
-.nav-brand,.nav-link{
-  color: #000000;
+.nav-brand, .nav-link{
+  color: #EB7B0C;
+}
+
+.login_form{
+  border-color: #381600;
+  border-style: solid;
+  border-width: thin;
+  background-color: #7BEB0C;
+  padding:20px;
+  margin: 20px;
+  border-radius: 5px;
 
 }
